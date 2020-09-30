@@ -841,6 +841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2020-09-29 02:07:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2019-10-12 16:43:02 +0200"
@@ -1015,6 +1021,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2020-09-29 02:10:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2019-09-27 15:49:42 +0200"
@@ -1096,6 +1108,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2019-10-10 00:07:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-09-29 02:10:10 +0200"
     },
     "done": true
   },
@@ -1394,6 +1412,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2019-09-20 06:35:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2020-09-29 02:16:03 +0200"
     },
     "done": true
   },
@@ -2789,6 +2813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2020-09-29 02:16:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2019-09-20 17:25:05 +0200"
@@ -3036,6 +3066,7 @@
       "minecraft:magma_cube": "2019-10-26 21:33:49 +0200",
       "minecraft:spider": "2019-09-20 06:26:56 +0200",
       "minecraft:creeper": "2019-09-24 00:38:35 +0200",
+      "minecraft:wither": "2020-09-27 03:02:33 +0200",
       "minecraft:slime": "2019-09-28 22:35:52 +0200",
       "minecraft:phantom": "2019-10-11 01:25:05 +0200",
       "minecraft:zombified_piglin": "2019-10-12 20:47:31 +0200",
@@ -3048,6 +3079,7 @@
       "minecraft:enderman": "2019-10-13 00:29:50 +0200",
       "minecraft:stray": "2019-10-31 20:39:38 +0100",
       "minecraft:silverfish": "2019-11-01 15:10:05 +0100",
+      "minecraft:endermite": "2020-09-19 15:50:04 +0200",
       "minecraft:zombie": "2019-09-20 06:45:19 +0200",
       "minecraft:drowned": "2019-10-26 22:58:01 +0200",
       "minecraft:zombie_villager": "2019-09-22 16:08:35 +0200"
@@ -3375,6 +3407,12 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2019-10-12 16:43:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-09-15 01:39:23 +0200"
     },
     "done": true
   },
@@ -5239,5 +5277,5 @@
     },
     "done": true
   },
-  "DataVersion": 2567
+  "DataVersion": 2580
 }
